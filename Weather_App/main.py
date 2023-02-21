@@ -26,7 +26,7 @@ def getWeather():
     current_time = local_time.strftime("%I:%M %p")
     clock.config(text=current_time)
     name.config(text="CURRENT WEATHER")
-    api_key = 'YOUR API KEY HERE'
+    api_key = '21f6ebe6a361661195560a9709fe2a06'
     weather_url = "http://api.openweathermap.org/data/2.5/weather"
     weather_result = f"{weather_url}?appid={api_key}&q={city}"
     # Weather Result
