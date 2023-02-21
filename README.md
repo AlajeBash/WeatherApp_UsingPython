@@ -27,4 +27,4 @@ This project is open for contributions. If you would like to contribute to this 
 ## Authors
 Bashir Sani - [AlajeBash](https://github.com/AlajeBash)
 
-[GUI](https://user-images.githubusercontent.com/82951300/220212777-9360cd6e-6c5e-4e9e-ba9f-acd60d5b30b2.png)
+![GUI](https://user-images.githubusercontent.com/82951300/220212777-9360cd6e-6c5e-4e9e-ba9f-acd60d5b30b2.png)
